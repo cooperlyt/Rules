@@ -77,6 +77,8 @@ payload:
 
   # > Grok
   - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,xai.com
+  - DOMAIN-SUFFIX,x.ai
 
   # > Jasper
   - DOMAIN-SUFFIX,clipdrop.co
